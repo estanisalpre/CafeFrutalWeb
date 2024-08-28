@@ -236,7 +236,7 @@ main{
 }
 /*Contenedor Carrousel*/
 .contenedor_carrousel{
-    width: 30%;
+    width: 25%;
     height: 90%;
     border-radius: 20px;
     display: flex;
@@ -989,8 +989,8 @@ footer img{
         animation: movimiento_icono_responsive 120s infinite;
     }
     .contenedor_carrousel{
-        height: 550px;
-        width: 350px;
+        height: 500px;
+        width: 270px;
     }
     .img_01, .img_02, .img_03{
         margin-top: 75px;
